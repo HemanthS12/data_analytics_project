@@ -1,3 +1,3 @@
-# Data analytics project using Python + SQL
+# Data analytics project using Python, SQL
 
 ## ●	An end-to-end data analytics project using Python and SQL. Processed and cleaned retail order data from Kaggle and pandas for data cleaning and transformation, loaded it into SQL Server for analysis. Utilized SQL queries to extract insights, such as identifying top-selling products, analyzing month-over-month sales growth, and determining the highest growth sub-category by profit. Demonstrated hands-on expertise in data processing, and SQL-based analysis to answer business-critical questions.                                                                        
